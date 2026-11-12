@@ -1,5 +1,3 @@
-## Yalçın Doksanbir
-
 *Doksanbir* means **91** in Turkish. Yes, really. No, there aren't 90 others. And no, it's not my birth year.
 
 CTO at **[Emlakjet](https://www.emlakjet.com) & [Endeksa](https://www.endeksa.com)** by day, still shipping code by night. 15+ years of distributed systems, search, data platforms and, lately, convincing AI agents to do their homework.
